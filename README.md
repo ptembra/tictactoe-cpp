@@ -3,6 +3,6 @@ I started this small project so I could start to gain more familiarity with the 
 
 To compile the code simply run `make` on the tictactoe directory.
 
-The binary spit out will be named `ticactoe-executable`
+The binary will be named `ticactoe-executable`
 
 Have fun!
